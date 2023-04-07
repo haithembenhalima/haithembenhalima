@@ -177,6 +177,7 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 <a href="#">
   <img src="https://img.shields.io/badge/kali%20linux-091E46?style=for-the-badge&logo=kalilinux&logoColor=white">
 </a>  
+<a href="#">
   <img src="https://img.shields.io/badge/arch%20linux-192A68?style=for-the-badge&logo=archlinux&logoColor=white">
 </a>
 <a href="#">
