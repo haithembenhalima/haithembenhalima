@@ -160,7 +160,7 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>  
 
 
-## Operating systems
+## :rocket: Operating systems
 
 <a href="#">
   <img src="https://img.shields.io/badge/windows-1183D2?style=for-the-badge&logo=windows&logoColor=white">
