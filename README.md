@@ -160,6 +160,31 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>  
 
 
+## Operating systems
+
+<a href="#">
+  <img src="https://img.shields.io/badge/windows-1183D2?style=for-the-badge&logo=windows&logoColor=white">
+</a>  
+<a href="#">
+  <img src="https://img.shields.io/badge/debian-B71E09?style=for-the-badge&logo=debian&logoColor=white">
+</a>  
+<a href="#">
+  <img src="https://img.shields.io/badge/ubuntu-D57210?style=for-the-badge&logo=ubuntu&logoColor=white">
+</a>  
+<a href="#">
+  <img src="https://img.shields.io/badge/Mx%20linux-222222?style=for-the-badge&logo=mxlinux&logoColor=white">
+</a>  
+<a href="#">
+  <img src="https://img.shields.io/badge/kali%20linux-091E46?style=for-the-badge&logo=kalilinux&logoColor=white">
+</a>  
+  <img src="https://img.shields.io/badge/arch%20linux-192A68?style=for-the-badge&logo=archlinux&logoColor=white">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Manjaro-128C01?style=for-the-badge&logo=manjaro&logoColor=white">
+</a>  
+<a href="#">
+  <img src="https://img.shields.io/badge/fedora-0A1A6A?style=for-the-badge&logo=fedora&logoColor=white">
+</a>
 
 
 
