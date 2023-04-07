@@ -67,7 +67,7 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 
 
-## :fireworks: Frameworks
+## :sparkler: Frameworks
 
 
 
@@ -85,19 +85,10 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/ajax-2F50A7?style=for-the-badge&logo=ajax&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -113,9 +104,6 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </a>
 
 
@@ -154,6 +142,9 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Atom-0BB458?style=for-the-badge&logo=atom&logoColor=white">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/vim-059419?style=for-the-badge&logo=vim&logoColor=white">
