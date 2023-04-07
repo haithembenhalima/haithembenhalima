@@ -42,10 +42,13 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oraclejava&logoColor=white">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Assembly-4F4F4F?style=for-the-badge&logo=oraclejava&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -68,14 +71,9 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 
 
 
-<a href="#">
-  <img src="https://img.shields.io/badge/ajax-2F50A7?style=for-the-badge&logo=ajax&logoColor=white">
-</a>
+
 <a href="#">
   <img src="https://img.shields.io/badge/laravel-E5500F?style=for-the-badge&logo=laravel&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/ionic-1974C4?style=for-the-badge&logo=ionic&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/flutter-1995C4?style=for-the-badge&logo=flutter&logoColor=white">
@@ -88,6 +86,9 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/ajax-2F50A7?style=for-the-badge&logo=ajax&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -132,6 +133,9 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 <a href="#">
   <img src="https://img.shields.io/badge/Hive-23BAD1?style=for-the-badge&logo=hive&logoColor=white">
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Firebase-EACF10?style=for-the-badge&logo=firebase&logoColor=black">
+</a>
 
 ## :wrench: Tools
 
@@ -152,14 +156,13 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/Atom-0BB458?style=for-the-badge&logo=atom&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/vim-059419?style=for-the-badge&logo=vim&logoColor=white
-">
+  <img src="https://img.shields.io/badge/vim-059419?style=for-the-badge&logo=vim&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/intellij-0A0A0A?style=for-the-badge&logo=intellijidea&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Figma-AE06B9?style=for-the-badge&logo=figma&logoColor=white">
