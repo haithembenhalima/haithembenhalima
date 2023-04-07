@@ -186,6 +186,8 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 <a href="#">
   <img src="https://img.shields.io/badge/fedora-0A1A6A?style=for-the-badge&logo=fedora&logoColor=white">
 </a>
-
+<a href="#">
+  <img src="https://img.shields.io/badge/linux%20mint-08C140?style=for-the-badge&logo=linuxmint&logoColor=white">
+</a>
 
 
