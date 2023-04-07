@@ -1,4 +1,4 @@
-### Hi 👋 I'm Haithem Benhalima 👨‍💻
+# Hi 👋 I'm Haithem Benhalima 👨‍💻
 
 I am a web and mobile apps developer, interested in intersectionality between artificial intelligence and internet of things. 
 
@@ -49,9 +49,6 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=dart&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=dart&logoColor=white">
@@ -133,8 +130,7 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Hive-23BAD1?style=for-the-badge&logo=hive&logoColor=white
-">
+  <img src="https://img.shields.io/badge/Hive-23BAD1?style=for-the-badge&logo=hive&logoColor=white">
 </a>
 
 ## :wrench: Tools
@@ -166,8 +162,8 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Figma-AE06B9?style=for-the-badge&logo=figma&logoColor=white
-">
+  <img src="https://img.shields.io/badge/Figma-AE06B9?style=for-the-badge&logo=figma&logoColor=white">
+</a>  
 
 
 
