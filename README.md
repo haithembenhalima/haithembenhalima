@@ -79,6 +79,9 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/flutter-1995C4?style=for-the-badge&logo=flutter&logoColor=white">
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/React.js-50667C?style=for-the-badge&logo=react&logoColor=#61dbfb">
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 </a>
 <a href="#">
