@@ -79,7 +79,7 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/flutter-1995C4?style=for-the-badge&logo=flutter&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Vue.js-50667C?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="[https://img.shields.io/badge/Vue.js-50667C?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D](https://img.shields.io/badge/React.js-50667C?style=for-the-badge&logo=react&logoColor=#61dbfb)">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
@@ -89,6 +89,10 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</a>
+<a href="#">
+  <img src="
+https://img.shields.io/badge/Express.js-50667C?style=for-the-badge&logo=express&logoColor=#61dbfb">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
