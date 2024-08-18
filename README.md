@@ -42,10 +42,13 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/TypeScript-183db8?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oraclejava&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Assembly-4F4F4F?style=for-the-badge&logo=oraclejava&logoColor=white">
@@ -65,6 +68,12 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 <a href="#">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+</a>
 
 
 ## :sparkler: Frameworks
@@ -73,40 +82,25 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 
 
 <a href="#">
-  <img src="https://img.shields.io/badge/laravel-E5500F?style=for-the-badge&logo=laravel&logoColor=white">
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/flutter-1995C4?style=for-the-badge&logo=flutter&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/React.js-50667C?style=for-the-badge&logo=react&logoColor=#61dbfb">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/ajax-2F50A7?style=for-the-badge&logo=ajax&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/Express.js-50667C?style=for-the-badge&logo=express&logoColor=#61dbfb">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest.js-34a600?style=for-the-badge&logo=jest&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/json-5A5E63?style=for-the-badge&logo=json&logoColor=white">
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/mui-0032d6?style=for-the-badge&logo=mui&logoColor=white">
 </a>
 
 
@@ -114,6 +108,9 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 
 <a href="#">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/PostgreSQL-183db8?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
@@ -125,35 +122,17 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/Hive-23BAD1?style=for-the-badge&logo=hive&logoColor=white">
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/Redis-cf1515?style=for-the-badge&logo=redis&logoColor=white">
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/Firebase-EACF10?style=for-the-badge&logo=firebase&logoColor=black">
 </a>
 
+
 ## :wrench: Tools
 
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Brave%20Brower-D15223?style=for-the-badge&logo=brave&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Opera%20Browser-D10000?style=for-the-badge&logo=opera&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Atom-0BB458?style=for-the-badge&logo=atom&logoColor=white">
-</a>
 <a href="#">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/vim-059419?style=for-the-badge&logo=vim&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/intellij-0A0A0A?style=for-the-badge&logo=intellijidea&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
