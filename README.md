@@ -91,6 +91,9 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/Express.js-50667C?style=for-the-badge&logo=express&logoColor=#61dbfb">
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/fastapi-059286?style=for-the-badge&logo=fastapi&logoColor=f7f7f7">
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/Nest.js-ea2856?style=for-the-badge&logo=nestjs&logoColor=#61dbfb">
 </a>
 <a href="#">
@@ -134,6 +137,12 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 
 ## :wrench: Tools
 
+<a href="#">
+  <img src="https://img.shields.io/badge/node.js-509941?style=for-the-badge&logo=node.js&logoColor=f7f7f7">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/docker-008de1?style=for-the-badge&logo=docker&logoColor=f7f7f7">
+</a>
 <a href="#">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </a>
