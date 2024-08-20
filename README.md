@@ -30,7 +30,7 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -48,10 +48,10 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Assembly-4F4F4F?style=for-the-badge&logo=oraclejava&logoColor=white">
+  <img src="https://img.shields.io/badge/Assembly-4F4F4F?style=for-the-badge&logo=assemblyscript&logoColor=white">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
