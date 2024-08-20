@@ -60,9 +60,6 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=dart&logoColor=white">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/SQL-D5891B?style=for-the-badge&logo=sql&logoColor=white">
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
 <a href="#">
@@ -88,7 +85,13 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/React.js-50667C?style=for-the-badge&logo=react&logoColor=#61dbfb">
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=#61dbfb">
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/Express.js-50667C?style=for-the-badge&logo=express&logoColor=#61dbfb">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Nest.js-ea2856?style=for-the-badge&logo=nestjs&logoColor=#61dbfb">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Jest.js-34a600?style=for-the-badge&logo=jest&logoColor=white">
