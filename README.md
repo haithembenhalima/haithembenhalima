@@ -185,5 +185,5 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haithembenhalima&layout=compact)
 
