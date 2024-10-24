@@ -185,3 +185,4 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haithembenhalima&show_icons=true&theme=radical)
