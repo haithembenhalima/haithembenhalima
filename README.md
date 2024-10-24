@@ -184,5 +184,5 @@ I am a web and mobile apps developer, interested in intersectionality between ar
   <img src="https://img.shields.io/badge/linux%20mint-08C140?style=for-the-badge&logo=linuxmint&logoColor=white">
 </a>
 
-## :bookmark_tabs Stats
+## :bookmark_tabs: Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haithembenhalima&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
