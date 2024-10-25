@@ -185,4 +185,8 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 </a>
 
 ## :bookmark_tabs: Stats
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haithembenhalima &layout=compact&theme=dark)](https://github.com/BigBr41n)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haithembenhalima&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
