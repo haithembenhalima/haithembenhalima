@@ -22,9 +22,6 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 <a href="https://linkedin.com/in/haithem-benhalima">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://t.me/haithem_benhalima">
-  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
 
 ## :computer: Programming Languages
 
