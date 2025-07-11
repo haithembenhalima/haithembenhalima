@@ -8,7 +8,7 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 
 
 - 🔭 I’m currently working on some projects with Nodejs.
-- 🌱 I’m currently learning about **ML , DL , IoT , Embaded Systems , Software Engineering and Operating systems**.
+- 🌱 I’m currently learning about **ML , DL , IoT , Embedded Systems , Software Engineering and Operating systems**.
 - ⚡ Interested in collaborating on projects on IA, IoT and open source Apps.
 - 💬 Reach me at: **benhalima.haithem@gmail.com**
 
