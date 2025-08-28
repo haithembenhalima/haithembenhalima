@@ -1,4 +1,4 @@
-# Hi 👋 I'm Haithem Benhalima 👨‍💻
+# Hi 👋 I'm Hithem Benhalima 👨‍💻
 
 I am a web and mobile apps developer, interested in intersectionality between artificial intelligence and internet of things. 
 
@@ -16,10 +16,10 @@ I am a web and mobile apps developer, interested in intersectionality between ar
 ## :calling: Social Media
 
 
-<a href="https://www.facebook.com/haithem.benhalima.3/">
+<a href="https://www.facebook.com/hithem.benhalima/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/haithem-benhalima">
+<a href="https://linkedin.com/in/hithem-benhalima">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
